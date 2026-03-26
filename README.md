@@ -1,0 +1,1 @@
+A simple console-based banking application developed using Java. This project simulates basic banking operations such as account creation, deposit, withdrawal, balance inquiry, and displaying account details. It uses object-oriented programming concepts like classes, constructors, and methods, along with user input handling via Scanner.
